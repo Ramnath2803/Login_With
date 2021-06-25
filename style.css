@@ -1,0 +1,33 @@
+.container {
+  margin: 2%;
+  width: 300px;
+  /* height: 42px; */
+  display: flex;
+  background-color: #efefef;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1.25rem;
+}
+
+.wrapper {
+  width: 40px;
+  height: 40px;
+  border-radius: 2px;
+  margin-right: 0.75rem;
+}
+
+.g-icon {
+  margin: 11px 11px;
+  width: 23px;
+  height: 25px;
+  color: #efefef;
+  /* background-color: #4285f4; */
+}
+.gbtn-text {
+  color: #232323;
+  font-size: 1.05rem;
+  font-weight: 450;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:500);
